@@ -6,13 +6,41 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/nhfh7/CLionProjects/Gcalc/Vertex.cpp
-Vertex.h
-C:/Users/nhfh7/CLionProjects/Gcalc/Vertex.h
+C:/Users/Michael Malul/CLionProjects/mtm_project/Edges.cpp
+Edges.h
+C:/Users/Michael Malul/CLionProjects/mtm_project/Edges.h
 
-C:/Users/nhfh7/CLionProjects/Gcalc/Vertex.h
+C:/Users/Michael Malul/CLionProjects/mtm_project/Edges.h
+
+C:/Users/Michael Malul/CLionProjects/mtm_project/Graph.cpp
+Graph.h
+C:/Users/Michael Malul/CLionProjects/mtm_project/Graph.h
+
+C:/Users/Michael Malul/CLionProjects/mtm_project/Graph.h
 iostream
 -
 set
 -
+utility
+-
+
+C:/Users/Michael Malul/CLionProjects/mtm_project/Vertex.cpp
+Vertex.h
+C:/Users/Michael Malul/CLionProjects/mtm_project/Vertex.h
+
+C:/Users/Michael Malul/CLionProjects/mtm_project/Vertex.h
+iostream
+-
+set
+-
+
+C:/Users/Michael Malul/CLionProjects/mtm_project/main.cpp
+iostream
+-
+set
+-
+map
+-
+Vertex.h
+C:/Users/Michael Malul/CLionProjects/mtm_project/Vertex.h
 

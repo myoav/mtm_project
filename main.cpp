@@ -6,7 +6,7 @@
 int main() {
     Vertex v1;
     v1.addVertex("yoav");
-    v1.addVertex("yoav1");
+    v1.addVertex("yoav12");
     v1.addVertex("yoav2");
     Vertex v2;
     v2.addVertex("israel");
