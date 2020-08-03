@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/nhfh7/CLionProjects/Gcalc/Vertex.cpp
+Vertex.h
+C:/Users/nhfh7/CLionProjects/Gcalc/Vertex.h
+
+C:/Users/nhfh7/CLionProjects/Gcalc/Vertex.h
+iostream
+-
+set
+-
+
